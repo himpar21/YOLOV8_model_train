@@ -1,0 +1,6 @@
+path: C:\Users\himan\Downloads\CODING\ObjectDetection\DATASET
+train: images\train
+val: images\train
+
+names:
+  0: penguin
